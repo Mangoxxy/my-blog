@@ -36,7 +36,7 @@ export const navBarConfig: NavBarConfig = {
   links: [
     LinkPreset.Home,
     LinkPreset.Archive,
-    LinkPreset.About,
+    // LinkPreset.About,
   ],
 };
 
@@ -48,9 +48,9 @@ export const profileConfig: ProfileConfig = {
 };
 
 export const licenseConfig: LicenseConfig = {
-  enable: true,
-  name: "CC BY-NC-SA 4.0",
-  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  enable: false,
+  name: "",
+  url: "",
 };
 
 export const expressiveCodeConfig: ExpressiveCodeConfig = {

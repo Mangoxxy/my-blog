@@ -2,6 +2,7 @@
 title: Prompt-学习通用型
 published: 2026-01-01
 tags: [Prompt]
+category: Prompt
 ---
 
 
